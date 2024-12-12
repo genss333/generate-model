@@ -1,4 +1,4 @@
-# generate-model
+# Generate Model Guide MacOs
 Generate Dart Model Class From Json File
 
 ## Setup
@@ -15,7 +15,7 @@ Help command line
 quicktype --help
 ```
 
-## Installation [Optional]
+## Installation
 ```.sh
 sudo mv generate_model.sh /usr/local/bin
 ```
