@@ -1,4 +1,4 @@
-# Generate Model Guide MacOs
+# Generate Model Guide MacOS
 Generate Dart Model Class From Json File
 
 ## Setup
