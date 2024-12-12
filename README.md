@@ -15,9 +15,7 @@ Help command line
 quicktype --help
 ```
 
-## Installation
-
-[Optional]
+## Installation [Optional]
 ```.sh
 sudo mv generate_model.sh /usr/local/bin
 ```
